@@ -2,11 +2,11 @@ LAB,Lab #1,43
 QUIZ,Quiz #1,9
 LAB,Lab #2,50
 QUIZ,Quiz #2,6
-CURVEDEXAM,Midterm #1,30,1.5
+CURVEDEXAM,Midterm #1,15,1.5
 QUIZ,Quiz #3,6
 LAB,Lab #3,45
 QUIZ,Quiz #3,7
 LAB,Lab #3,35
-CURVEDEXAM,Midterm #2,30,1.0
+CURVEDEXAM,Midterm #2,15,1.0
 ESSAY,Essay,80
 FINAL,Final,30
