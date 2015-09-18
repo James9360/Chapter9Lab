@@ -130,3 +130,5 @@ This section outlines how to get the lab on to your computer and how to submit i
 	7. Press the green pull request button at the top to the left of the "Branch: master" dropdown.
 	8. To finally submit your lab, Click the green "Create new pull request" button, enter a title and message, and press "Create pull request".
 	9. Your lab is now submitted!
+
+**Special**: You can give "kudos" points to up to 2 people for helping you with the lab either through tutoring or by looking at their forks.  When you submit your lab, indicate up to 2 people that you would like to give points.
