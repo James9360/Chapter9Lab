@@ -131,4 +131,4 @@ This section outlines how to get the lab on to your computer and how to submit i
 	8. To finally submit your lab, Click the green "Create new pull request" button, enter a title and message, and press "Create pull request".
 	9. Your lab is now submitted!
 
-**Special**: You can give "kudos" points to up to 2 people for helping you with the lab either through tutoring or by looking at their forks.  When you submit your lab, indicate up to 2 people that you would like to give points.
+**Special**: You can give "kudos" points to up to 2 people for helping you with the lab either through tutoring or by looking at their forks.  When you submit your lab, indicate up to 2 people that you would like to give points. A student can earn up to 5 bonus points combined from multiple kudos.
