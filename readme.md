@@ -98,7 +98,7 @@ This section outlines how to get the lab on to your computer and how to submit i
 	11. Press Finish and your project is imported!
 	12. Right click the project in the package explorer, click Maven->Update Project... (Or press Alt+F5)
 3. Do the actual lab work
-	1. Read/implement the Question 1 section above
+	1. Read/implement the Question sections above
 	2. Keep all existing and new classes in the edu.carroll.cis232 package.
 	3. Do not rename any existing files.
 4. Test your work. (Unit Testing currently not available)
