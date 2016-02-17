@@ -101,13 +101,8 @@ This section outlines how to get the lab on to your computer and how to submit i
 	1. Read/implement the Question 1 section above
 	2. Keep all existing and new classes in the edu.carroll.cis232 package.
 	3. Do not rename any existing files.
-4. Test your work.
+4. Test your work. (Unit Testing currently not available)
 	1. Run the application by pressing the Play button to test your program manually.
-	2. To test your program with the built-in Unit tests: 
-		1. Open one of the unit test classes named Question#Test in the src/test/java folder.
-		2. Press the Play button.
-		3. The failed tests will show up as red on the left. Passed tests will show up as green.
-		4. Repeat the process with another Question#Test
 5. Submit your work
 	1. Right click the project
 	2. Choose Team->Commit...
